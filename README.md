@@ -11,7 +11,7 @@ Camera Effects
 
 This is my Camera Effects project
 
-![picture_title](Welcome_to_vectr.png?raw=true "Optional Title")
+![picturetitle](Welcome_to_vectr.png?raw=true "Optional Title")
 
 
 ***
